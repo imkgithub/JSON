@@ -1,1 +1,1 @@
-testlol
+Print("gg")
